@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/feedback/feedback.module.scss"],"names":[],"mappings":"AAAA,gCACE,UAAW,CACZ,mDAKG,iBAAkB","file":"main.77085434.chunk.css","sourcesContent":[".feedback_block {\r\n  margin: 5px;\r\n}\r\n.title {\r\n}\r\n.btn_block {\r\n  button:not(:last-child) {\r\n    margin-right: 10px;\r\n  }\r\n}\r\n.rating {\r\n}\r\n"]}
